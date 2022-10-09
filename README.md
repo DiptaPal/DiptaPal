@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=40&color=A32CC4&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Github+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Github+Profile!)
 
 ### Hi there my gorgeous friend
 
