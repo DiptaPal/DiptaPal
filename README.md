@@ -33,7 +33,7 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diptapal.diptapal)
+![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Thank+you...)
