@@ -27,11 +27,11 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) 
-<!-- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) -->
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#) 
+<!-- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) -->
 <!-- [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&&labelColor=black&logo=markdown&logoColor=white)](#) 
 [![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&&labelColor=black&logo=wordpress&logoColor=21759B)](#)  -->
 
@@ -54,8 +54,6 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 [![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
-<!-- [![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#) 
-[![Adobe Illustrator Badge](https://img.shields.io/badge/adobe_illustrator-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#)  -->
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 [![Trello Badge](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&labelColor=black&logo=Trello&logoColor=026AA7)](#) 
@@ -64,6 +62,8 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
+<!-- [![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#) 
+[![Adobe Illustrator Badge](https://img.shields.io/badge/adobe_illustrator-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#)  -->
 
 ## 💻 Familiar
 [![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
@@ -72,11 +72,11 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
 [![JWT Badge Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
-<!-- [![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)  -->
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)](#)
 <!-- [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#)  -->
 <!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<!-- [![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)  -->
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false) 
