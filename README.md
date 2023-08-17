@@ -2,7 +2,7 @@
 
 ### Hi there my gorgeous friend
 
-Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
 
 :coffee: &emsp;Connect with me!
 
