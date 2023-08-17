@@ -16,7 +16,7 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web designer from <img src="a
 
 ![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
 
 
 ### Things I code with
