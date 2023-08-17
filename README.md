@@ -14,7 +14,7 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 
 ### Github Stats
 
-![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
 
