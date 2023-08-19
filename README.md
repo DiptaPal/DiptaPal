@@ -9,7 +9,7 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diptapal98) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-pal/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipta_pal_98/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiptaPal98) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptapal1998@gmail.com)
 
 <a href="https://app.daily.dev/dipta_pal">
-    <img src="https://api.daily.dev/devcards/a8f5c8f5c5c94bfb9039cbaf552d2f9b.png?r=cv8" width="250" alt="Dipta Pal's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/a8f5c8f5c5c94bfb9039cbaf552d2f9b.png?r=cv8" lign="right" width="400" alt="Dipta Pal's Dev Card"/>
 </a>
 
 ### Github Stats
