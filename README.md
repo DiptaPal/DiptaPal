@@ -15,18 +15,17 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 ### Github Stats
 
 ![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-<<<<<<< HEAD
-=======
+
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
->>>>>>> c99c4016d300914641a93475b0c3aaf0fd70eeac
+
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
 
 ### Things I code with
 
 <!-- ## 💻 Things I code with -->
-<<<<<<< HEAD
+
 
 ## 💻 Frontend
 
@@ -146,7 +145,6 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false) 
->>>>>>> c99c4016d300914641a93475b0c3aaf0fd70eeac
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=diptapal)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -158,8 +156,5 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 
 ![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> c99c4016d300914641a93475b0c3aaf0fd70eeac
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Thank+you...)
