@@ -9,23 +9,24 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 [![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=protodotio&logoColor=green)](https://dipta-pal.netlify.app/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diptapal98) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-pal-dp/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipta_pal_98/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiptaPal98) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptapal1998@gmail.com)
 
 <a href="https://app.daily.dev/dipta_pal">
-    <img src="https://api.daily.dev/devcards/a8f5c8f5c5c94bfb9039cbaf552d2f9b.png?r=cv8" align="right" width="300" alt="Dipta Pal's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/Yha4TMYEgNJlnN0TO3Clj.png?type=wide&r=g1x" width="652" alt="Dipta Pal's Dev Card"/>
 </a>
+
+### Profile Visits
+
+![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
 
 ### Github Stats
 
 ![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
-
+# ![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
 
 ### Things I code with
 
 <!-- ## 💻 Things I code with -->
-
 
 ## 💻 Frontend
 
@@ -85,24 +86,13 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 <!-- [!React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)(#) -->
 <!-- [![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)  -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false)
-=======
-
-
-<!-- [![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#) 
+<!-- [![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/adobe_illustrator-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#)  -->
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=diptapal)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Business
 
 :email: &emsp;diptapal1998@gmail.com
-
-### Profile Visits
-
-![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
-
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Thank+you...)
