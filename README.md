@@ -1,30 +1,61 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Github+Profile!)
 
-### Hi there my gorgeous friend
+Hi there! 👋 I'm Dipta Pal, a passionate web development enthusiast from <img src="assets/bangladesh.png" width="18"/> Bangladesh, exploring the art of crafting beautiful and functional websites. Let's build something amazing together!
 
-Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+<p align="center">
+    <a href="https://www.linkedin.com/in/dipta-pal">
+        <img src="https://api.daily.dev/devcards/v2/Yha4TMYEgNJlnN0TO3Clj.png?type=wide&r=g1x" width="80%" background="dark" alt="Dipta Pal's Dev Card"/>
+    </a>
+</p>
 
-:coffee: &emsp;Connect with me!
+<!-- <a href="https://app.daily.dev/dipta_pal">
+    <img src="https://api.daily.dev/devcards/a8f5c8f5c5c94bfb9039cbaf552d2f9b.png?r=lbe" align="right" width="250" alt="Dipta Pal's Dev Card"/>
+</a> -->
 
-[![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=protodotio&logoColor=green)](https://dipta-pal.netlify.app/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diptapal98) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-pal-dp/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipta_pal_98/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiptaPal98) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptapal1998@gmail.com)
+## :coffee: &emsp; Connect with me!
 
-<a href="https://app.daily.dev/dipta_pal">
-    <img src="https://api.daily.dev/devcards/v2/Yha4TMYEgNJlnN0TO3Clj.png?type=wide&r=g1x" width="652" alt="Dipta Pal's Dev Card"/>
-</a>
+<div>
+  <a href="https://dipta-pal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=protodotio&logoColor=green" alt="Portfolio">
+  </a>
+  <a href="https://www.facebook.com/diptapal98" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/dipta-pal-dp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/dipta_pal_98/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/DiptaPal98" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:diptapal1998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
-### Profile Visits
+## Github Stats
 
-![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
+<!-- ![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) -->
 
-### Github Stats
+<p align="center">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=diptapal&theme=dark&bg_color=0D1117&text_color=00F0FF&icon_color=FF1CF7&show_icons=true&ring_color=FF1CF7&number=00F0FF&hide_border=true&count_private=true&hide_title=true"/>
+</p>
 
-![Dipta Pal's github stats](https://github-readme-stats.vercel.app/api?username=diptapal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<!-- # ![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false) -->
 
-# ![](https://github-readme-streak-stats.herokuapp.com/?user=diptapal&theme=react&hide_border=false)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=diptapal&theme=react&hide_border=true&background=0d1117&stroke=0d1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide")
+<!-- ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&layout=compact&theme=tokyonight&hide") -->
 
-### Things I code with
+<p align="center">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptapal&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&text_color=00F0FF&hide_title=true" />
+</p>
+
+### Technologies that I know
 
 <!-- ## 💻 Things I code with -->
 
@@ -91,8 +122,12 @@ Hi there, It's me, Dipta Pal. I am trying to learn Web Development from <img src
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=diptapal)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Business
+## Business Mail
 
 :email: &emsp;diptapal1998@gmail.com
+
+## Profile Visits
+
+![visitors](https://komarev.com/ghpvc/?username=DiptaPal)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=40&color=f8f8f8&center=true&vCenter=true&width=1000&height=100&lines=Thank+you...)
